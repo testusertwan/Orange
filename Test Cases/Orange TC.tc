@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Orange TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cd00a26-fa4e-4ea1-9c17-f48ad2e1bea9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0dd7e43a-031c-45e2-a9b6-a0750fca1a2d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0dd7e43a-031c-45e2-a9b6-a0750fca1a2d</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
